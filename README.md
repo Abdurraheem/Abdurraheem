@@ -1,7 +1,7 @@
 # Hi, I'm Mohammad Abdurraheem 👋 💻
 
-<img src="https://raw.githubusercontent.com/Abdurraheem/Abdurraheem/master/gh-header-image-cropped.png" alt="banner that says Mohammad Abdurraheem - Software Engineer, Backend Developer and Database Designer alongside advance Project Architecture setup">
-I'm a software engineer who is passionate about making open-source more accessible, creating project to elevate people, and building th Web. Some technologies I enjoy working with include NodeJS, ExpressJS (JavaScript, APIs + Authorization) and MongoDB. My interest in the NodeJS ecosystem led me to create <a href="https://github.com/Abdurraheem/REST-API-JWTWEB-TOKEN">SECURE REST API</a>, a repo for full fledge Secure REST API integration for NodeJS developers.
+<img src="https://raw.githubusercontent.com/Abdurraheem/Abdurraheem/master/logo.png">
+I'm a software engineer,Backend Developer and advance Project Architecture setup alongside Database Designer who is passionate about making open-source more accessible, creating project to elevate people, and building th Web. Some technologies I enjoy working with include NodeJS, ExpressJS (JavaScript, APIs + Authorization) and MongoDB. My interest in the NodeJS ecosystem led me to create <a href="https://github.com/Abdurraheem/REST-API-JWTWEB-TOKEN">SECURE REST API</a>, a repo for full fledge Secure REST API integration for NodeJS developers.
 
 
 ## Find me around the web 🌎:
